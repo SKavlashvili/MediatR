@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatrTests", "MediatrTests\MediatrTests.csproj", "{6F5775A9-6308-4690-AC3A-3479A2D4852B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatR", "MediatR\MediatR.csproj", "{AC87FE0F-1739-4442-BD98-84D5552AECBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F5775A9-6308-4690-AC3A-3479A2D4852B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5775A9-6308-4690-AC3A-3479A2D4852B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5775A9-6308-4690-AC3A-3479A2D4852B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5775A9-6308-4690-AC3A-3479A2D4852B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC87FE0F-1739-4442-BD98-84D5552AECBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC87FE0F-1739-4442-BD98-84D5552AECBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC87FE0F-1739-4442-BD98-84D5552AECBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC87FE0F-1739-4442-BD98-84D5552AECBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A00701D2-7A74-45A9-AE3B-9F14EE906342}
+	EndGlobalSection
+EndGlobal

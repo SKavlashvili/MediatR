@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JmV4zW+ulYGMSYWZie/fuzByeE7kGDrDYfxRuFto2YzG8ZD8dWPuVyWyin5V0NjEsM1FlRWxGzlo8dXj7SKHHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skavlashvili\\Desktop\\MediatrTests\\MediatR\\MediatR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

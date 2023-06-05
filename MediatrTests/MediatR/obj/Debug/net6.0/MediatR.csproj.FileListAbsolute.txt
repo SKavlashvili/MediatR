@@ -1,0 +1,12 @@
+C:\Users\skavlashvili\Desktop\MediatrTests\MediatR\bin\Debug\net6.0\MediatR.deps.json
+C:\Users\skavlashvili\Desktop\MediatrTests\MediatR\bin\Debug\net6.0\MediatR.dll
+C:\Users\skavlashvili\Desktop\MediatrTests\MediatR\bin\Debug\net6.0\MediatR.pdb
+C:\Users\skavlashvili\Desktop\MediatrTests\MediatR\obj\Debug\net6.0\MediatR.csproj.AssemblyReference.cache
+C:\Users\skavlashvili\Desktop\MediatrTests\MediatR\obj\Debug\net6.0\MediatR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skavlashvili\Desktop\MediatrTests\MediatR\obj\Debug\net6.0\MediatR.AssemblyInfoInputs.cache
+C:\Users\skavlashvili\Desktop\MediatrTests\MediatR\obj\Debug\net6.0\MediatR.AssemblyInfo.cs
+C:\Users\skavlashvili\Desktop\MediatrTests\MediatR\obj\Debug\net6.0\MediatR.csproj.CoreCompileInputs.cache
+C:\Users\skavlashvili\Desktop\MediatrTests\MediatR\obj\Debug\net6.0\MediatR.dll
+C:\Users\skavlashvili\Desktop\MediatrTests\MediatR\obj\Debug\net6.0\refint\MediatR.dll
+C:\Users\skavlashvili\Desktop\MediatrTests\MediatR\obj\Debug\net6.0\MediatR.pdb
+C:\Users\skavlashvili\Desktop\MediatrTests\MediatR\obj\Debug\net6.0\ref\MediatR.dll
